@@ -8,7 +8,7 @@
         "position": 1,
         "name": "Tempest",
         "acronym": "TMP",
-        "image": "img-equipe/01_Tempest.jpg",
+        "image": "/img-equipe/01_Tempest.jpg",
         "players": [
           "R♡Sobral",
           "gyo123",
@@ -20,7 +20,7 @@
         "position": 2,
         "name": "Dragons",
         "acronym": "DGS",
-        "image": "img-equipe/02_Dragons.jpeg",
+        "image": "/img-equipe/02_Dragons.jpeg",
         "players": [
           "DGN | RAFAEL🦊",
           "Tokiyu",
@@ -32,7 +32,7 @@
         "position": 3,
         "name": "KGL",
         "acronym": "KGL",
-        "image": "img-equipe/03_KGL.jpeg",
+        "image": "/img-equipe/03_KGL.jpeg",
         "players": [
           "Killua",
           "Gon",
@@ -44,7 +44,7 @@
         "position": 4,
         "name": "Os Falidos",
         "acronym": "OF",
-        "image": "img-equipe/04_Os_Falidos.jpeg",
+        "image": "/img-equipe/04_Os_Falidos.jpeg",
         "players": [
           "MARVINGG",
           "DGN | •SATOSHI•",
@@ -58,7 +58,7 @@
         "position": 5,
         "name": "Cipher Pol 9",
         "acronym": "CP9",
-        "image": "img-equipe/05_Cipher_Pol9.jpeg",
+        "image": "/img-equipe/05_Cipher_Pol9.jpeg",
         "players": [
           "CP9 | Red🤍Clara",
           "CP9 | Babuíno",
@@ -70,7 +70,7 @@
         "position": 6,
         "name": "Moonblast",
         "acronym": "MB",
-        "image": "img-equipe/06_Moonblast.jpeg",
+        "image": "/img-equipe/06_Moonblast.jpeg",
         "players": [
           "TTK·Kikitoxz7",
           "Idky",
@@ -84,7 +84,7 @@
         "position": 7,
         "name": "Crazy Royale",
         "acronym": "CY",
-        "image": "img-equipe/07_Crazy_Royale.jpeg",
+        "image": "/img-equipe/07_Crazy_Royale.jpeg",
         "players": [
           "CY | SAD SUNKY",
           "CY | §God God§",
@@ -96,7 +96,7 @@
         "position": 8,
         "name": "Time Ambu",
         "acronym": "AMBU",
-        "image": "img-equipe/08_Time_Ambu.jpeg",
+        "image": "/img-equipe/08_Time_Ambu.jpeg",
         "players": [
           "🍝MIOJO🍝",
           "🧅 cebolo21 🧅",
@@ -108,7 +108,7 @@
         "position": 9,
         "name": "Shadow Meteors",
         "acronym": "SME",
-        "image": "img-equipe/09_Shadow_Meteors.jpeg",
+        "image": "/img-equipe/09_Shadow_Meteors.jpeg",
         "players": [
           "LOUD | Minter",
           "Meteor Boy",
