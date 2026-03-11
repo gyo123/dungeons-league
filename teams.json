@@ -1,0 +1,121 @@
+{
+  "tournament": {
+    "name": "Torneio Brawl Stars",
+    "totalTeams": 9,
+    "totalSlots": 16,
+    "teams": [
+      {
+        "position": 1,
+        "name": "Tempest",
+        "acronym": "TMP",
+        "image": "img-equipe/01_Tempest.jpg",
+        "players": [
+          "R♡Sobral",
+          "gyo123",
+          "MikePaulera"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 2,
+        "name": "Dragons",
+        "acronym": "DGS",
+        "image": "img-equipe/02_Dragons.jpeg",
+        "players": [
+          "DGN | RAFAEL🦊",
+          "Tokiyu",
+          "DGN | Zaps"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 3,
+        "name": "KGL",
+        "acronym": "KGL",
+        "image": "img-equipe/03_KGL.jpeg",
+        "players": [
+          "Killua",
+          "Gon",
+          "DGN | ×LEMINHOS×"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 4,
+        "name": "Os Falidos",
+        "acronym": "OF",
+        "image": "img-equipe/04_Os_Falidos.jpeg",
+        "players": [
+          "MARVINGG",
+          "DGN | •SATOSHI•",
+          "Bonardi120hz"
+        ],
+        "reserves": [
+          "DGN | Mystic"
+        ]
+      },
+      {
+        "position": 5,
+        "name": "Cipher Pol 9",
+        "acronym": "CP9",
+        "image": "img-equipe/05_Cipher_Pol9.jpeg",
+        "players": [
+          "CP9 | Red🤍Clara",
+          "CP9 | Babuíno",
+          "CP9 | ZERO🤍BELLE"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 6,
+        "name": "Moonblast",
+        "acronym": "MB",
+        "image": "img-equipe/06_Moonblast.jpeg",
+        "players": [
+          "TTK·Kikitoxz7",
+          "Idky",
+          "SL | starkingBS"
+        ],
+        "reserves": [
+          "Regincobra"
+        ]
+      },
+      {
+        "position": 7,
+        "name": "Crazy Royale",
+        "acronym": "CY",
+        "image": "img-equipe/07_Crazy_Royale.jpeg",
+        "players": [
+          "CY | SAD SUNKY",
+          "CY | §God God§",
+          "CY | ♠️ Cripto ♠️"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 8,
+        "name": "Time Ambu",
+        "acronym": "AMBU",
+        "image": "img-equipe/08_Time_Ambu.jpeg",
+        "players": [
+          "🍝MIOJO🍝",
+          "🧅 cebolo21 🧅",
+          "imJoberx"
+        ],
+        "reserves": []
+      },
+      {
+        "position": 9,
+        "name": "Shadow Meteors",
+        "acronym": "SME",
+        "image": "img-equipe/09_Shadow_Meteors.jpeg",
+        "players": [
+          "LOUD | Minter",
+          "Meteor Boy",
+          "Zeetz!"
+        ],
+        "reserves": []
+      }
+    ]
+  }
+}
